@@ -1,0 +1,7 @@
+{
+  "name": "modernapp",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node modernapp/tests/sample.test.js"
+  }
+}
