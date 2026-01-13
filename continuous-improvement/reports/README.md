@@ -1,4 +1,4 @@
-Stores file about the following reviews:
+Stores files regarding the following reviews:
 
 Retrospectives after releases or incidents
 
